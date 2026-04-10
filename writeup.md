@@ -416,7 +416,9 @@ add ASCII support for completeness.
 
 I used \*\*Claude (Anthropic)\*\* throughout this assessment for 
 
-guidance, explanation, and code review. The complete conversation 
+guidance, explanation, and code review.
+Link of chat: https://claude.ai/share/ad44633c-9aec-4393-a4f7-4ac39db754fa
+The complete conversation 
 
 is submitted separately as required.
 
